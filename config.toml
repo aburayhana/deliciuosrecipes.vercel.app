@@ -1,4 +1,4 @@
-baseURL = "https://deliciuosrecipes.netlify.app"
+baseURL = "https://deliciuosrecipes.vercel.app"
 languageCode = "en-us"
 title = "Deliciuos Recipes"
 theme = "z"
